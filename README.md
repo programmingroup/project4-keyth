@@ -9,11 +9,12 @@ Welcome to my first PHP page! This project is a simple example of a webpage buil
 This is a basic PHP application that displays a welcoming message. It's designed to showcase a simple webpage that runs on Apache with PHP support, and it's containerized with Docker for easy deployment.
 
 ## 🛠️ Technologies Used
-**PHP:** A popular server-side scripting language used for web development.
 
-**Docker:** A tool for automating the deployment of applications inside lightweight, portable containers.
+**PHP:** A popular server-side scripting language used for web development.  
 
-**Apache:** The web server used to serve the PHP application.
+**Docker:** A tool for automating the deployment of applications inside lightweight, portable containers.  
+
+**Apache:** The web server used to serve the PHP application.  
 
 ## 🐳 Deploying Docker Image
 
