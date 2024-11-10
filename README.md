@@ -10,7 +10,9 @@ This is a basic PHP application that displays a welcoming message. It's designed
 
 ## 🛠️ Technologies Used
 **PHP:** A popular server-side scripting language used for web development.
+
 **Docker:** A tool for automating the deployment of applications inside lightweight, portable containers.
+
 **Apache:** The web server used to serve the PHP application.
 
 ## 🐳 Deploying Docker Image
